@@ -1,4 +1,4 @@
-# web-server
+# Web Server
 
 ## Install Dependencies:
 ```
